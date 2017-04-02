@@ -1,0 +1,2463 @@
+main.o: main.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/watchdog.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/post.h
+ACEX1K.o: ACEX1K.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/ACEX1K.h /work/u-boot-1.1.6/include/altera.h \
+ /work/u-boot-1.1.6/include/fpga.h
+altera.o: altera.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/ACEX1K.h /work/u-boot-1.1.6/include/altera.h \
+ /work/u-boot-1.1.6/include/fpga.h
+bedbug.o: bedbug.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h
+circbuf.o: circbuf.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/malloc.h /work/u-boot-1.1.6/include/circbuf.h
+cmd_ace.o: cmd_ace.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/systemace.h \
+ /work/u-boot-1.1.6/include/asm/io.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/asm/memory.h
+cmd_autoscript.o: cmd_autoscript.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/malloc.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h
+cmd_bdinfo.o: cmd_bdinfo.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/net.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h
+cmd_bedbug.o: cmd_bedbug.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/linux/ctype.h \
+ /work/u-boot-1.1.6/include/net.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/bedbug/type.h \
+ /work/u-boot-1.1.6/include/bedbug/bedbug.h \
+ /work/u-boot-1.1.6/include/bedbug/regs.h \
+ /work/u-boot-1.1.6/include/bedbug/ppc.h
+cmd_bmp.o: cmd_bmp.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/bmp_layout.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/malloc.h
+cmd_boot.o: cmd_boot.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/net.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h
+cmd_bootm.o: cmd_bootm.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/watchdog.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/malloc.h \
+ /work/u-boot-1.1.6/include/zlib.h /work/u-boot-1.1.6/include/bzlib.h \
+ /work/u-boot-1.1.6/include/environment.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/rtc.h
+cmd_cache.o: cmd_cache.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_console.o: cmd_console.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/devices.h /work/u-boot-1.1.6/include/lists.h
+cmd_date.o: cmd_date.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/rtc.h
+cmd_dcr.o: cmd_dcr.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_diag.o: cmd_diag.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/post.h
+cmd_display.o: cmd_display.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_doc.o: cmd_doc.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/malloc.h \
+ /work/u-boot-1.1.6/include/asm/io.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/asm/memory.h
+cmd_dtt.o: cmd_dtt.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_eeprom.o: cmd_eeprom.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/i2c.h
+cmd_elf.o: cmd_elf.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/linux/ctype.h \
+ /work/u-boot-1.1.6/include/net.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/elf.h
+cmd_ext2.o: cmd_ext2.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h
+cmd_fat.o: cmd_fat.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/s_record.h /work/u-boot-1.1.6/include/net.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/ata.h
+cmd_fdc.o: cmd_fdc.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_fdos.o: cmd_fdos.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/fdc.h
+cmd_flash.o: cmd_flash.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/jffs2/jffs2.h \
+ /work/u-boot-1.1.6/include/jffs2/load_kernel.h \
+ /work/u-boot-1.1.6/include/linux/list.h
+cmd_fpga.o: cmd_fpga.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/net.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/fpga.h /work/u-boot-1.1.6/include/malloc.h
+cmd_i2c.o: cmd_i2c.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/i2c.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h
+cmd_ide.o: cmd_ide.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/watchdog.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/ata.h /work/u-boot-1.1.6/include/asm/io.h \
+ /work/u-boot-1.1.6/include/asm/memory.h
+cmd_immap.o: cmd_immap.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_itest.o: cmd_itest.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_jffs2.o: cmd_jffs2.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/malloc.h \
+ /work/u-boot-1.1.6/include/jffs2/jffs2.h \
+ /work/u-boot-1.1.6/include/jffs2/load_kernel.h \
+ /work/u-boot-1.1.6/include/linux/list.h \
+ /work/u-boot-1.1.6/include/linux/ctype.h \
+ /work/u-boot-1.1.6/include/cramfs/cramfs_fs.h \
+ /work/u-boot-1.1.6/include/linux/mtd/nand.h \
+ /work/u-boot-1.1.6/include/linux/mtd/compat.h \
+ /work/u-boot-1.1.6/include/linux/mtd/mtd.h \
+ /work/u-boot-1.1.6/include/linux/mtd/mtd-abi.h \
+ /work/u-boot-1.1.6/include/nand.h
+cmd_load.o: cmd_load.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/s_record.h /work/u-boot-1.1.6/include/net.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/exports.h \
+ /work/u-boot-1.1.6/include/_exports.h \
+ /work/u-boot-1.1.6/include/xyzModem.h
+cmd_log.o: cmd_log.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/devices.h /work/u-boot-1.1.6/include/lists.h \
+ /work/u-boot-1.1.6/include/post.h /work/u-boot-1.1.6/include/logbuff.h
+cmd_mem.o: cmd_mem.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_mii.o: cmd_mii.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_misc.o: cmd_misc.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_mmc.o: cmd_mmc.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_nand.o: cmd_nand.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/watchdog.h \
+ /work/u-boot-1.1.6/include/malloc.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/jffs2/jffs2.h \
+ /work/u-boot-1.1.6/include/jffs2/load_kernel.h \
+ /work/u-boot-1.1.6/include/linux/list.h \
+ /work/u-boot-1.1.6/include/nand.h \
+ /work/u-boot-1.1.6/include/linux/mtd/compat.h \
+ /work/u-boot-1.1.6/include/linux/mtd/mtd.h \
+ /work/u-boot-1.1.6/include/linux/mtd/mtd-abi.h \
+ /work/u-boot-1.1.6/include/linux/mtd/nand.h
+cmd_net.o: cmd_net.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/net.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h
+cmd_nvedit.o: cmd_nvedit.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/environment.h \
+ /work/u-boot-1.1.6/include/watchdog.h \
+ /work/u-boot-1.1.6/include/serial.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/net.h
+cmd_pci.o: cmd_pci.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h
+cmd_pcmcia.o: cmd_pcmcia.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/pcmcia.h \
+ /work/u-boot-1.1.6/include/asm/io.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/asm/memory.h
+cmd_portio.o: cmd_portio.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_reginfo.o: cmd_reginfo.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+cmd_reiser.o: cmd_reiser.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h
+cmd_scsi.o: cmd_scsi.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/asm/processor.h \
+ /work/u-boot-1.1.6/include/asm/atomic.h \
+ /work/u-boot-1.1.6/include/asm/proc/system.h \
+ /work/u-boot-1.1.6/include/asm/proc/processor.h \
+ /work/u-boot-1.1.6/include/asm/proc/domain.h \
+ /work/u-boot-1.1.6/include/scsi.h /work/u-boot-1.1.6/include/pci.h \
+ /work/u-boot-1.1.6/include/pci_ids.h
+cmd_spi.o: cmd_spi.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/spi.h
+cmd_universe.o: cmd_universe.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/malloc.h \
+ /work/u-boot-1.1.6/include/asm/io.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/asm/memory.h /work/u-boot-1.1.6/include/pci.h \
+ /work/u-boot-1.1.6/include/pci_ids.h \
+ /work/u-boot-1.1.6/include/universe.h
+cmd_usb.o: cmd_usb.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h
+cmd_usbslave.o: cmd_usbslave.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h \
+ /work/u-boot-1.1.6/include/def.h
+cmd_menu.o: cmd_menu.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h /work/u-boot-1.1.6/include/def.h \
+ /work/u-boot-1.1.6/include/nand.h \
+ /work/u-boot-1.1.6/include/linux/mtd/compat.h \
+ /work/u-boot-1.1.6/include/linux/mtd/mtd.h \
+ /work/u-boot-1.1.6/include/linux/mtd/mtd-abi.h \
+ /work/u-boot-1.1.6/include/linux/mtd/nand.h
+cmd_vfd.o: cmd_vfd.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+command.o: command.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
+console.o: console.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/malloc.h /work/u-boot-1.1.6/include/console.h \
+ /work/u-boot-1.1.6/include/devices.h /work/u-boot-1.1.6/include/lists.h \
+ /work/u-boot-1.1.6/include/exports.h \
+ /work/u-boot-1.1.6/include/_exports.h
+devices.o: devices.c /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/malloc.h /work/u-boot-1.1.6/include/devices.h \
+ /work/u-boot-1.1.6/include/lists.h /work/u-boot-1.1.6/include/serial.h
+dlmalloc.o: dlmalloc.c /work/u-boot-1.1.6/include/malloc.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/common.h /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h
+docecc.o: docecc.c /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/malloc.h
+environment.o: environment.c /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/environment.h
+env_common.o: env_common.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/environment.h \
+ /work/u-boot-1.1.6/include/malloc.h
+env_nand.o: env_nand.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/environment.h \
+ /work/u-boot-1.1.6/include/malloc.h /work/u-boot-1.1.6/include/nand.h \
+ /work/u-boot-1.1.6/include/linux/mtd/compat.h \
+ /work/u-boot-1.1.6/include/linux/mtd/mtd.h \
+ /work/u-boot-1.1.6/include/linux/mtd/mtd-abi.h \
+ /work/u-boot-1.1.6/include/linux/mtd/nand.h
+env_dataflash.o: env_dataflash.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h
+env_flash.o: env_flash.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h
+env_eeprom.o: env_eeprom.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h
+env_nvram.o: env_nvram.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h
+env_nowhere.o: env_nowhere.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h
+exports.o: exports.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/exports.h \
+ /work/u-boot-1.1.6/include/_exports.h
+flash.o: flash.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h
+fpga.o: fpga.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/xilinx.h /work/u-boot-1.1.6/include/fpga.h \
+ /work/u-boot-1.1.6/include/altera.h
+ft_build.o: ft_build.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/malloc.h \
+ /work/u-boot-1.1.6/include/environment.h
+hush.o: hush.c /work/u-boot-1.1.6/include/malloc.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/ctype.h \
+ /work/u-boot-1.1.6/include/common.h /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/hush.h /work/u-boot-1.1.6/include/command.h
+kgdb.o: kgdb.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/kgdb.h /work/u-boot-1.1.6/include/command.h
+lcd.o: lcd.c /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/version.h \
+ /work/u-boot-1.1.6/include/version_autogenerated.h \
+ /work/u-boot-1.1.6/include/devices.h /work/u-boot-1.1.6/include/lists.h \
+ /work/u-boot-1.1.6/include/lcd.h /work/u-boot-1.1.6/include/watchdog.h
+lists.o: lists.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/malloc.h /work/u-boot-1.1.6/include/lists.h
+lynxkdi.o: lynxkdi.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/asm/processor.h \
+ /work/u-boot-1.1.6/include/asm/atomic.h \
+ /work/u-boot-1.1.6/include/asm/proc/system.h \
+ /work/u-boot-1.1.6/include/asm/proc/processor.h \
+ /work/u-boot-1.1.6/include/asm/proc/domain.h
+memsize.o: memsize.c
+miiphybb.o: miiphybb.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/ioports.h \
+ /work/u-boot-1.1.6/include/ppc_asm.tmpl
+miiphyutil.o: miiphyutil.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/miiphy.h /work/u-boot-1.1.6/include/net.h \
+ /work/u-boot-1.1.6/include/asm/byteorder.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/little_endian.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/swab.h \
+ /work/u-boot-1.1.6/include/linux/byteorder/generic.h
+s_record.o: s_record.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/s_record.h
+serial.o: serial.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/serial.h /work/u-boot-1.1.6/include/devices.h \
+ /work/u-boot-1.1.6/include/lists.h
+soft_i2c.o: soft_i2c.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/i2c.h
+soft_spi.o: soft_spi.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/spi.h
+spartan2.o: spartan2.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/spartan2.h \
+ /work/u-boot-1.1.6/include/xilinx.h /work/u-boot-1.1.6/include/fpga.h
+spartan3.o: spartan3.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/spartan3.h \
+ /work/u-boot-1.1.6/include/xilinx.h /work/u-boot-1.1.6/include/fpga.h
+usb.o: usb.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/asm/processor.h \
+ /work/u-boot-1.1.6/include/asm/atomic.h \
+ /work/u-boot-1.1.6/include/asm/proc/system.h \
+ /work/u-boot-1.1.6/include/asm/proc/processor.h \
+ /work/u-boot-1.1.6/include/asm/proc/domain.h \
+ /work/u-boot-1.1.6/include/linux/ctype.h
+usb_kbd.o: usb_kbd.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/devices.h /work/u-boot-1.1.6/include/lists.h
+usb_storage.o: usb_storage.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h \
+ /work/u-boot-1.1.6/include/asm/processor.h \
+ /work/u-boot-1.1.6/include/asm/atomic.h \
+ /work/u-boot-1.1.6/include/asm/proc/system.h \
+ /work/u-boot-1.1.6/include/asm/proc/processor.h \
+ /work/u-boot-1.1.6/include/asm/proc/domain.h
+virtex2.o: virtex2.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/virtex2.h /work/u-boot-1.1.6/include/xilinx.h \
+ /work/u-boot-1.1.6/include/fpga.h
+xilinx.o: xilinx.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/virtex2.h /work/u-boot-1.1.6/include/xilinx.h \
+ /work/u-boot-1.1.6/include/fpga.h /work/u-boot-1.1.6/include/spartan2.h \
+ /work/u-boot-1.1.6/include/spartan3.h
+crc16.o: crc16.c /work/u-boot-1.1.6/include/crc.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h
+xyzModem.o: xyzModem.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/xyzModem.h /work/u-boot-1.1.6/include/crc.h
+cmd_mac.o: cmd_mac.c /work/u-boot-1.1.6/include/common.h \
+ /work/u-boot-1.1.6/include/config.h \
+ /work/u-boot-1.1.6/include/configs/100ask24x0.h \
+ /work/u-boot-1.1.6/include/cmd_confdefs.h \
+ /work/u-boot-1.1.6/include/linux/bitops.h \
+ /work/u-boot-1.1.6/include/asm/bitops.h \
+ /work/u-boot-1.1.6/include/linux/types.h \
+ /work/u-boot-1.1.6/include/linux/config.h \
+ /work/u-boot-1.1.6/include/linux/posix_types.h \
+ /work/u-boot-1.1.6/include/linux/stddef.h \
+ /work/u-boot-1.1.6/include/asm/posix_types.h \
+ /work/u-boot-1.1.6/include/asm/types.h \
+ /work/u-boot-1.1.6/include/linux/string.h \
+ /work/u-boot-1.1.6/include/asm/string.h \
+ /work/u-boot-1.1.6/include/asm/ptrace.h \
+ /work/u-boot-1.1.6/include/asm/proc/ptrace.h \
+ /opt/FriendlyARM/toolschain/4.5.1/lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdarg.h \
+ /work/u-boot-1.1.6/include/part.h /work/u-boot-1.1.6/include/ide.h \
+ /work/u-boot-1.1.6/include/flash.h /work/u-boot-1.1.6/include/image.h \
+ /work/u-boot-1.1.6/include/asm/u-boot.h \
+ /work/u-boot-1.1.6/include/asm/global_data.h \
+ /work/u-boot-1.1.6/include/asm/mach-types.h \
+ /work/u-boot-1.1.6/include/asm/setup.h \
+ /work/u-boot-1.1.6/include/asm/u-boot-arm.h \
+ /work/u-boot-1.1.6/include/command.h
